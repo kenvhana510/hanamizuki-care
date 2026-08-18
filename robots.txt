@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://kenvhana510.github.io/hanamizuki-care/sitemap.xml
