@@ -1,0 +1,811 @@
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ◈ encrypted .env [www.dotenvx.com]
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: service-visit
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥0 / ¥3000
+現在の残額: ¥3000
+生成後予想使用額: ¥6
+生成後予想残額: ¥2994
+生成後予想使用率: 0.2%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+SaSaved: C:\Users\unear\hanamizuki-care\images\_source\hero-living.png
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥24
+残額: ¥2976
+使用率: 0.8%
+成功生成数: 4
+Status: NORMAL
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: lunch
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥12 / ¥3000
+現在の残額: ¥2988
+生成後予想使用額: ¥18
+生成後予想残額: ¥2982
+生成後予想使用率: 0.6%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+Saved: C:\Users\unear\hanamizuki-care\images\_source\lunch.png
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥42
+残額: ¥2958
+使用率: 1.4%
+成功生成数: 7
+Status: NORMAL
+ount: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥24 / ¥3000
+現在の残額: ¥2976
+生成後予想使用額: ¥30
+生成後予想残額: ¥2970
+生成後予想使用率: 1.0%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+画像生成に失敗しました: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+--- error diagnostics ---
+name: Error
+status: 429
+code: rate_limit_exceeded
+cause: undefined
+error: {"message":"Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.","type":"input-images","param":null,"code":"rate_limit_exceeded"}
+stack: Error: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+    at APIError.generate (C:\Users\unear\openai-image-generator\node_modules\openai\core\error.js:63:20)
+    at OpenAI.makeStatusError (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:290:32)
+    at OpenAI.makeRequest (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:494:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async run (C:\Users\unear\openai-image-generator\generate-image.js:153:20)
+-------------------------
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥24
+残額: ¥2976
+使用率: 0.8%
+成功生成数: 4
+Status: NORMAL
+Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌁ auth for agents [www.vestauth.com]
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: tea-hands
+Model: gpt-image-2
+Size: 1024x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥8 ($0.053)
+現在の使用額: ¥24 / ¥3000
+現在の残額: ¥2976
+生成後予想使用額: ¥32
+生成後予想残額: ¥2968
+生成後予想使用率: 1.1%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+画像生成に失敗しました: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+--- error diagnostics ---
+name: Error
+status: 429
+code: rate_limit_exceeded
+cause: undefined
+error: {"message":"Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.","type":"input-images","param":null,"code":"rate_limit_exceeded"}
+stack: Error: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+    at APIError.generate (C:\Users\unear\openai-image-generator\node_modules\openai\core\error.js:63:20)
+    at OpenAI.makeStatusError (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:290:32)
+    at OpenAI.makeRequest (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:494:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async run (C:\Users\unear\openai-image-generator\generate-image.js:153:20)
+-------------------------
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥30
+残額: ¥2970
+使用率: 1.0%
+成功生成数: 5
+Status: NORMAL
+Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ◈ secrets for agents [www.dotenvx.com]
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: service-day
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥30 / ¥3000
+現在の残額: ¥2970
+生成後予想使用額: ¥36
+生成後予想残額: ¥2964
+生成後予想使用率: 1.2%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+画像生成に失敗しました: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+--- error diagnostics ---
+name: Error
+status: 429
+code: rate_limit_exceeded
+cause: undefined
+error: {"message":"Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.","type":"input-images","param":null,"code":"rate_limit_exceeded"}
+stack: Error: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+    at APIError.generate (C:\Users\unear\openai-image-generator\node_modules\openai\core\error.js:63:20)
+    at OpenAI.makeStatusError (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:290:32)
+    at OpenAI.makeRequest (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:494:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async run (C:\Users\unear\openai-image-generator\generate-image.js:153:20)
+-------------------------
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥30
+残額: ¥2970
+使用率: 1.0%
+成功生成数: 5
+Status: NORMAL
+Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: service-plan
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥30 / ¥3000
+現在の残額: ¥2970
+生成後予想使用額: ¥36
+生成後予想残額: ¥2964
+生成後予想使用率: 1.2%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+画像生成に失敗しました: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+--- error diagnostics ---
+name: Error
+status: 429
+code: rate_limit_exceeded
+cause: undefined
+error: {"message":"Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.","type":"input-images","param":null,"code":"rate_limit_exceeded"}
+stack: Error: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+    at APIError.generate (C:\Users\unear\openai-image-generator\node_modules\openai\core\error.js:63:20)
+    at OpenAI.makeStatusError (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:290:32)
+    at OpenAI.makeRequest (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:494:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async run (C:\Users\unear\openai-image-generator\generate-image.js:153:20)
+-------------------------
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥30
+残額: ¥2970
+使用率: 1.0%
+成功生成数: 5
+Status: NORMAL
+Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌁ auth for agents [www.vestauth.com]
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: exterior
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥30 / ¥3000
+現在の残額: ¥2970
+生成後予想使用額: ¥36
+生成後予想残額: ¥2964
+生成後予想使用率: 1.2%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+画像生成に失敗しました: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+--- error diagnostics ---
+name: Error
+status: 429
+code: rate_limit_exceeded
+cause: undefined
+error: {"message":"Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.","type":"input-images","param":null,"code":"rate_limit_exceeded"}
+stack: Error: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+    at APIError.generate (C:\Users\unear\openai-image-generator\node_modules\openai\core\error.js:63:20)
+    at OpenAI.makeStatusError (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:290:32)
+    at OpenAI.makeRequest (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:494:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async run (C:\Users\unear\openai-image-generator\generate-image.js:153:20)
+-------------------------
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥30
+残額: ¥2970
+使用率: 1.0%
+成功生成数: 5
+Status: NORMAL
+Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ override existing { override: true }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: team
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥42 / ¥3000
+現在の残額: ¥2958
+生成後予想使用額: ¥48
+生成後予想残額: ¥2952
+生成後予想使用率: 1.6%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+画像生成に失敗しました: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+--- error diagnostics ---
+name: Error
+status: 429
+code: rate_limit_exceeded
+cause: undefined
+error: {"message":"Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.","type":"input-images","param":null,"code":"rate_limit_exceeded"}
+stack: Error: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+    at APIError.generate (C:\Users\unear\openai-image-generator\node_modules\openai\core\error.js:63:20)
+    at OpenAI.makeStatusError (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:290:32)
+    at OpenAI.makeRequest (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:494:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async run (C:\Users\unear\openai-image-generator\generate-image.js:153:20)
+-------------------------
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥42
+残額: ¥2958
+使用率: 1.4%
+成功生成数: 7
+Status: NORMAL
+Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ◈ encrypted .env [www.dotenvx.com]
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: bokeh
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥42 / ¥3000
+現在の残額: ¥2958
+生成後予想使用額: ¥48
+生成後予想残額: ¥2952
+生成後予想使用率: 1.6%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+画像生成に失敗しました: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+--- error diagnostics ---
+name: Error
+status: 429
+code: rate_limit_exceeded
+cause: undefined
+error: {"message":"Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.","type":"input-images","param":null,"code":"rate_limit_exceeded"}
+stack: Error: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+    at APIError.generate (C:\Users\unear\openai-image-generator\node_modules\openai\core\error.js:63:20)
+    at OpenAI.makeStatusError (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:290:32)
+    at OpenAI.makeRequest (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:494:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async run (C:\Users\unear\openai-image-generator\generate-image.js:153:20)
+-------------------------
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥42
+残額: ¥2958
+使用率: 1.4%
+成功生成数: 7
+Status: NORMAL
+Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ enable debugging { debug: true }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: album
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥42 / ¥3000
+現在の残額: ¥2958
+生成後予想使用額: ¥48
+生成後予想残額: ¥2952
+生成後予想使用率: 1.6%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+画像生成に失敗しました: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+--- error diagnostics ---
+name: Error
+status: 429
+code: rate_limit_exceeded
+cause: undefined
+error: {"message":"Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.","type":"input-images","param":null,"code":"rate_limit_exceeded"}
+stack: Error: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+    at APIError.generate (C:\Users\unear\openai-image-generator\node_modules\openai\core\error.js:63:20)
+    at OpenAI.makeStatusError (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:290:32)
+    at OpenAI.makeRequest (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:494:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async run (C:\Users\unear\openai-image-generator\generate-image.js:153:20)
+-------------------------
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥42
+残額: ¥2958
+使用率: 1.4%
+成功生成数: 7
+Status: NORMAL
+Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: hero-garden
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥78 / ¥3000
+現在の残額: ¥2922
+生成後予想使用額: ¥84
+生成後予想残額: ¥2916
+生成後予想使用率: 2.8%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+Saved: C:\Users\unear\hanamizuki-care\images\_source\hero-garden.png
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥90
+残額: ¥2910
+使用率: 3.0%
+成功生成数: 15
+Status: NORMAL
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ custom filepath { path: '/custom/path/.env' }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: tea-hands
+Model: gpt-image-2
+Size: 1024x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥8 ($0.053)
+現在の使用額: ¥102 / ¥3000
+現在の残額: ¥2898
+生成後予想使用額: ¥110
+生成後予想残額: ¥2890
+生成後予想使用率: 3.7%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+画像生成に失敗しました: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+--- error diagnostics ---
+name: Error
+status: 429
+code: rate_limit_exceeded
+cause: undefined
+error: {"message":"Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.","type":"input-images","param":null,"code":"rate_limit_exceeded"}
+stack: Error: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+    at APIError.generate (C:\Users\unear\openai-image-generator\node_modules\openai\core\error.js:63:20)
+    at OpenAI.makeStatusError (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:290:32)
+    at OpenAI.makeRequest (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:494:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async run (C:\Users\unear\openai-image-generator\generate-image.js:153:20)
+-------------------------
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥102
+残額: ¥2898
+使用率: 3.4%
+成功生成数: 17
+Status: NORMAL
+Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ enable debugging { debug: true }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: service-day
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥102 / ¥3000
+現在の残額: ¥2898
+生成後予想使用額: ¥108
+生成後予想残額: ¥2892
+生成後予想使用率: 3.6%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+Saved: C:\Users\unear\hanamizuki-care\images\_source\service-day.png
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥132
+残額: ¥2868
+使用率: 4.4%
+成功生成数: 22
+Status: NORMAL
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ enable debugging { debug: true }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: service-plan
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥138 / ¥3000
+現在の残額: ¥2862
+生成後予想使用額: ¥144
+生成後予想残額: ¥2856
+生成後予想使用率: 4.8%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+画像生成に失敗しました: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+--- error diagnostics ---
+name: Error
+status: 429
+code: rate_limit_exceeded
+cause: undefined
+error: {"message":"Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.","type":"input-images","param":null,"code":"rate_limit_exceeded"}
+stack: Error: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+    at APIError.generate (C:\Users\unear\openai-image-generator\node_modules\openai\core\error.js:63:20)
+    at OpenAI.makeStatusError (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:290:32)
+    at OpenAI.makeRequest (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:494:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async run (C:\Users\unear\openai-image-generator\generate-image.js:153:20)
+-------------------------
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥138
+残額: ¥2862
+使用率: 4.6%
+成功生成数: 23
+Status: NORMAL
+Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ◈ secrets for agents [www.dotenvx.com]
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: exterior
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥138 / ¥3000
+現在の残額: ¥2862
+生成後予想使用額: ¥144
+生成後予想残額: ¥2856
+生成後予想使用率: 4.8%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+Saved: C:\Users\unear\hanamizuki-care\images\_source\exterior.png
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥162
+残額: ¥2838
+使用率: 5.4%
+成功生成数: 27
+Status: NORMAL
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ override existing { override: true }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: team
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥162 / ¥3000
+現在の残額: ¥2838
+生成後予想使用額: ¥168
+生成後予想残額: ¥2832
+生成後予想使用率: 5.6%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+Saved: C:\Users\unear\hanamizuki-care\images\_source\team.png
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥180
+残額: ¥2820
+使用率: 6.0%
+成功生成数: 30
+Status: NORMAL
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ override existing { override: true }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: bokeh
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥186 / ¥3000
+現在の残額: ¥2814
+生成後予想使用額: ¥192
+生成後予想残額: ¥2808
+生成後予想使用率: 6.4%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+Saved: C:\Users\unear\hanamizuki-care\images\_source\bokeh.png
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥204
+残額: ¥2796
+使用率: 6.8%
+成功生成数: 34
+Status: NORMAL
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌁ auth for agents [www.vestauth.com]
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: album
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥216 / ¥3000
+現在の残額: ¥2784
+生成後予想使用額: ¥222
+生成後予想残額: ¥2778
+生成後予想使用率: 7.4%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+画像生成に失敗しました: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+--- error diagnostics ---
+name: Error
+status: 429
+code: rate_limit_exceeded
+cause: undefined
+error: {"message":"Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.","type":"input-images","param":null,"code":"rate_limit_exceeded"}
+stack: Error: 429 Rate limit reached for gpt-image-2 (for limit gpt-image) in organization org-iZtNEBYYbUwsMyiS5kloMoqE on input-images per min: Limit 5, Used 5, Requested 1. Please try again in 12s. Visit https://platform.openai.com/account/rate-limits to learn more.
+    at APIError.generate (C:\Users\unear\openai-image-generator\node_modules\openai\core\error.js:63:20)
+    at OpenAI.makeStatusError (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:290:32)
+    at OpenAI.makeRequest (C:\Users\unear\openai-image-generator\node_modules\openai\client.js:494:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async run (C:\Users\unear\openai-image-generator\generate-image.js:153:20)
+-------------------------
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥216
+残額: ¥2784
+使用率: 7.2%
+成功生成数: 36
+Status: NORMAL
+Assertion failed: !(handle->flags & UV_HANDLE_CLOSING), file src\win\async.c, line 94
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ◈ secrets for agents [www.dotenvx.com]
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: tea-hands
+Model: gpt-image-2
+Size: 1024x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥8 ($0.053)
+現在の使用額: ¥240 / ¥3000
+現在の残額: ¥2760
+生成後予想使用額: ¥248
+生成後予想残額: ¥2752
+生成後予想使用率: 8.3%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+Saved: C:\Users\unear\hanamizuki-care\images\_source\tea-hands.png
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥260
+残額: ¥2740
+使用率: 8.7%
+成功生成数: 43
+Status: NORMAL
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+DUPLICATE PROMPT
+Project: hanamizuki-care
+Prompt hash: b65990aa8a24e394
+Already generated with this exact prompt: 1 time(s)
+同一プロンプトでの生成済みです。再生成が必要な場合のみ --force を指定してください。
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: service-plan
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥278 / ¥3000
+現在の残額: ¥2722
+生成後予想使用額: ¥284
+生成後予想残額: ¥2716
+生成後予想使用率: 9.5%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+Saved: C:\Users\unear\hanamizuki-care\images\_source\service-plan.png
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥296
+残額: ¥2704
+使用率: 9.9%
+成功生成数: 49
+Status: NORMAL
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥284 / ¥3000
+現在の残額: ¥2716
+生成後予想使用額: ¥290
+生成後予想残額: ¥2710
+生成後予想使用率: 9.7%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+Saved: C:\Users\unear\hanamizuki-care\images\_source\service-plan.png
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥302
+残額: ¥2698
+使用率: 10.1%
+成功生成数: 50
+Status: NORMAL
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ⌘ suppress logs { quiet: true }
+IMAGE PLAN
+
+Project: hanamizuki-care
+Purpose: album
+Model: gpt-image-2
+Size: 1536x1024 / Quality: medium
+Count: 1
+
+━━━━━━━━━━━━━━━━━━
+生成前コスト確認（ローカル月間画像生成予算）
+今回の推定コスト: ¥6 ($0.041)
+現在の使用額: ¥302 / ¥3000
+現在の残額: ¥2698
+生成後予想使用額: ¥308
+生成後予想残額: ¥2692
+生成後予想使用率: 10.3%
+予算ステータス: NORMAL
+━━━━━━━━━━━━━━━━━━
+
+Saved: C:\Users\unear\hanamizuki-care\images\_source\album.png
+
+完了報告
+
+月間予算（ローカル月間画像生成予算）: ¥3000
+使用額: ¥320
+残額: ¥2680
+使用率: 10.7%
+成功生成数: 53
+Status: NORMAL
+◇ injected env (2) from ..\..\..\openai-image-generator\.env // tip: ◈ encrypted .env [www.dotenvx.com]
+DUPLICATE PROMPT
+Project: hanamizuki-care
+Prompt hash: 6a33ff11926c51af
+Already generated with this exact prompt: 1 time(s)
+同一プロンプトでの生成済みです。再生成が必要な場合のみ --force を指定してください。
